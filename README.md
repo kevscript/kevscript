@@ -1,7 +1,7 @@
 
 <p align="center">
    <a href="https://www.kevinostafinski.com">
-    <img src="https://img.shields.io/static/v1?logo=Keras&label=portfolio&message=website&color=yellow&style=for-the-badge" />
+    <img src="https://img.shields.io/static/v1?logo=Keras&label=portfolio&message=website&color=blueviolet&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/kevinostafinski">
     <img src="https://img.shields.io/static/v1?logo=LinkedIn&label=linkedin&message=available&color=brightgreen&style=for-the-badge" alt="Linkedin Badge" />
