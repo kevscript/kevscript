@@ -1,6 +1,6 @@
 <br/><br/>
 <p align="center">
- <img src="./name.png" />
+ <img src="https://github.com/kevscript/kevscript/blob/master/name.png" />
 </p>
 <br/>
 <p align="center">
