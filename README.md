@@ -1,8 +1,10 @@
 <br/><br/>
+<!---
 <p align="center">
  <img src="https://github.com/kevscript/kevscript/blob/master/name.png" />
 </p>
 <br/>
+-->
 <p align="center">
    <a href="https://www.kevinostafinski.com">
     <img src="https://img.shields.io/static/v1?logo=Keras&label=portfolio&message=website&labelColor=0a1832&color=fff52d&style=for-the-badge" />
