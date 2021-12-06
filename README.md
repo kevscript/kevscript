@@ -46,7 +46,7 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
  <a href="https://github.com/kevscript/vscolors">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevscript&repo=vscolors&theme=dracula&bg_color=22223b&title_color=f2e9e4&border_radius=0&hide_border=true&icon_color=4a4e69&text_color=c9ada7" />
  </a>
@@ -69,5 +69,5 @@
  <a href="https://github.com/kevscript/tempeo">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevscript&repo=tempeo&theme=dracula&bg_color=22223b&title_color=f2e9e4&border_radius=0&hide_border=true&icon_color=4a4e69&text_color=c9ada7" />
  </a>
-</p>
+</p> -->
 
