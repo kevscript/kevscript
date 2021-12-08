@@ -28,19 +28,19 @@
 </p>
 
 <p align="center">
- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevscript&layout=compact&theme=dracula&border_radius=0&bg_color=22223b&title_color=f2e9e4&hide_border=true&langs_count=6" />
- <img height="165" src="https://github-readme-stats.vercel.app/api?username=kevscript&show_icons=true&hide=issues&theme=dracula&bg_color=22223b&title_color=f2e9e4&hide_border=true&icon_color=4a4e69&text_color=c9ada7&border_radius=0&hide_rank=true&custom_title=Activity&count_private=true" />
+ <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevscript&layout=compact&theme=dracula&border_radius=0&bg_color=0,9a8c98,4a4e69&title_color=f2e9e4&hide_border=true&langs_count=6" />
+ <img height="165" src="https://github-readme-stats.vercel.app/api?username=kevscript&show_icons=true&hide=issues&theme=dracula&bg_color=0,4a4e69,22223b&title_color=f2e9e4&hide_border=true&icon_color=c9ada7&text_color=f2e9e4&border_radius=0&hide_rank=true&custom_title=Activity&count_private=true" />
 </p>
 
 <p align="center">
    <a href="https://www.kevinostafinski.com">
-    <img src="https://img.shields.io/static/v1?logo=Keras&label=portfolio&message=website&logoColor=c9ada7&labelColor=22223b&color=c9ada7&style=for-the-badge" />
+    <img src="https://img.shields.io/static/v1?logo=Keras&label=portfolio&message=website&logoColor=f2e9e4&labelColor=22223b&color=f2e9e4&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/kevinostafinski">
-    <img src="https://img.shields.io/static/v1?logo=LinkedIn&label=linkedin&message=available&logoColor=2867B2&labelColor=22223b&color=c9ada7&style=for-the-badge" alt="Linkedin Badge" />
+    <img src="https://img.shields.io/static/v1?logo=LinkedIn&label=linkedin&message=available&logoColor=2867B2&labelColor=22223b&color=f2e9e4&style=for-the-badge" alt="Linkedin Badge" />
   </a>
   <a href="https://twitter.com/kevscript">
-    <img src="https://img.shields.io/static/v1?logo=twitter&label=twitter&message=follow&logoColor=00acee&labelColor=22223b&color=c9ada7&style=for-the-badge" />
+    <img src="https://img.shields.io/static/v1?logo=twitter&label=twitter&message=follow&logoColor=00acee&labelColor=22223b&color=f2e9e4&style=for-the-badge" />
   </a>
 </p>
 
