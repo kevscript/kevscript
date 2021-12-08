@@ -28,8 +28,8 @@
 </p>
 
 <p align="center">
- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevscript&layout=compact&theme=dracula&border_radius=0&bg_color=0,9a8c98,4a4e69&title_color=f2e9e4&hide_border=true&langs_count=6" />
- <img height="165" src="https://github-readme-stats.vercel.app/api?username=kevscript&show_icons=true&hide=issues&theme=dracula&bg_color=0,4a4e69,22223b&title_color=f2e9e4&hide_border=true&icon_color=c9ada7&text_color=f2e9e4&border_radius=0&hide_rank=true&custom_title=Activity&count_private=true" />
+ <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevscript&layout=compact&theme=dracula&border_radius=0&bg_color=5,9a8c98,4a4e69,383A54,22223b&title_color=f2e9e4&hide_border=true&langs_count=6" />
+ <img height="165" src="https://github-readme-stats.vercel.app/api?username=kevscript&show_icons=true&hide=issues&theme=dracula&bg_color=10,22223b,22223b,383A54&title_color=f2e9e4&hide_border=true&icon_color=c9ada7&text_color=f2e9e4&border_radius=0&hide_rank=true&custom_title=Activity&count_private=true" />
 </p>
 
 <p align="center">
