@@ -34,13 +34,13 @@
 
 <p align="center">
    <a href="https://www.kevinostafinski.com">
-    <img src="https://img.shields.io/static/v1?logo=Keras&label=portfolio&message=website&logoColor=f2e9e4&labelColor=22223b&color=f2e9e4&style=for-the-badge" />
+    <img src="https://img.shields.io/static/v1?logo=Keras&label=portfolio&message=website&logoColor=f2e9e4&labelColor=22223b&color=c9ada7&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/kevinostafinski">
-    <img src="https://img.shields.io/static/v1?logo=LinkedIn&label=linkedin&message=available&logoColor=2867B2&labelColor=22223b&color=f2e9e4&style=for-the-badge" alt="Linkedin Badge" />
+    <img src="https://img.shields.io/static/v1?logo=LinkedIn&label=linkedin&message=available&logoColor=2867B2&labelColor=22223b&color=c9ada7&style=for-the-badge" alt="Linkedin Badge" />
   </a>
   <a href="https://twitter.com/kevscript">
-    <img src="https://img.shields.io/static/v1?logo=twitter&label=twitter&message=follow&logoColor=00acee&labelColor=22223b&color=f2e9e4&style=for-the-badge" />
+    <img src="https://img.shields.io/static/v1?logo=twitter&label=twitter&message=follow&logoColor=00acee&labelColor=22223b&color=c9ada7&style=for-the-badge" />
   </a>
 </p>
 
