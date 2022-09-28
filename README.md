@@ -29,7 +29,7 @@
 
 <p align="center">
  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevscript&layout=compact&theme=dracula&border_radius=0&bg_color=90,383A54,22223b&title_color=f2e9e4&hide_border=true&langs_count=6&count_private=true" />
- <img height="165" src="https://github-readme-stats.vercel.app/api?username=kevscript&show_icons=true&hide=issues&theme=dracula&bg_color=90,383A54,22223b&title_color=f2e9e4&hide_border=true&icon_color=c9ada7&text_color=f2e9e4&border_radius=0&hide_rank=true&custom_title=Activity&count_private=true&include_all_commits=true" />
+ <img height="165" src="https://github-readme-stats.vercel.app/api?username=kevscript&show_icons=true&hide=issues&theme=dracula&bg_color=90,383A54,22223b&title_color=f2e9e4&hide_border=true&icon_color=c9ada7&text_color=f2e9e4&border_radius=0&hide_rank=true&custom_title=Activity&count_private=true" />
 </p>
 
 <p align="center">
