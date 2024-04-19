@@ -7,10 +7,6 @@
 -->
 
 <p align="center">
-    </a>
-    <a href="https://www.kevinostafinski.com">
-    <img src="https://img.shields.io/badge/-Windows_10-informational?style=flat&logo=windows&logoColor=00adef&color=22223b&labelColor=22223b&logoWidth=12" />
-   </a>
    <a href="https://www.kevinostafinski.com">
     <img src="https://img.shields.io/badge/-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=0078d7&color=22223b&labelColor=22223b&logoWidth=12" />
    </a>
