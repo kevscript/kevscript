@@ -67,7 +67,7 @@
  </a>
 </p> -->
 
+<!--
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; object-fit: cover; background-size: cover; background-repeat: no-repeat; opacity: 0.05; min-height: 100%; min-width: 1024px; width: 100%; height: auto; background: url('https://github.com/kevscript/kevscript/blob/master/de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372.gif?raw=true') no-repeat center bottom fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover;]{x0000}$}
-
-
+-->
