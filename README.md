@@ -68,6 +68,6 @@
 </p> -->
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; object-fit: cover; background-size: cover; background-repeat: no-repeat; opacity: 0.25; min-height: 100%; min-width: 1024px; width: 100%; height: auto; background: url('https://github.com/kevscript/kevscript/blob/master/dg3u7hq-c1a76bed-89de-4294-9621-bb4ec5928066.gif?raw=true') no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover;]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; object-fit: cover; background-size: cover; background-repeat: no-repeat; opacity: 0.1; min-height: 100%; min-width: 1024px; width: 100%; height: auto; background: url('https://github.com/kevscript/kevscript/blob/master/dg3u7hq-c1a76bed-89de-4294-9621-bb4ec5928066.gif?raw=true') no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover;]{x0000}$}
 
 
